@@ -12,3 +12,9 @@ body {
 	text-align:center;
 	font-family: Arial, sans-serif;
 }
+
+#image {
+	width:200px;
+	padding:10px;
+	
+}
